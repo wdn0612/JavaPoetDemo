@@ -1,0 +1,9 @@
+{
+  "package": "com.dntech.demo.dto",
+  "orderType": [
+    {"dto":  "NewOrder", "orderState":  "NEW"},
+    {"dto": "ModifyOrder", "orderState":  "MODIFIED"},
+    {"dto": "DeleteOrder", "orderState":  "DELETED"},
+    {"dto": "CancelOrder", "orderState":  "CANCELLED"}
+  ]
+}
